@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
     public string[] JellyNameList;
     public int[] JellatinList;
     public int[] JellyGoldList;
+    public int[] numGoldList;
+    public int[] clickGoldList;
 
     public void ChangeAc(Animator anim, int level)
     {
